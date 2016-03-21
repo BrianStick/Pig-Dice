@@ -117,5 +117,4 @@ namespace Pig_Dice
         public int Score = 0;
     }
 }
-    }
-}
+
